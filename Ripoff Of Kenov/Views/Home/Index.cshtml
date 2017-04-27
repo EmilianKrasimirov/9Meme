@@ -1,0 +1,26 @@
+﻿@model IEnumerable<Ripoff_Of_Kenov.Models.Posts.HomeIndexPostModel>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1 class="text-center">9Meme</h1>
+    <p class="lead text-center">The 9Gag of Memes!</p>
+    <p class="text-center">
+        <a href="~/Posts/Create" class="btn btn-primary btn-lg">Add Your Meme</a>
+        <a href="~/Posts/All.cshtml" class="btn btn-primary btn-lg">See Our Memes</a>
+    </p>
+</div>
+
+<div class="row">
+     @foreach (var post in Model)
+     {
+         <div class="col-md-4">
+             <h2>@post.Title</h2>
+             <img src="@post.ImageUrl" class="img-responsive" />
+             <p><a class="btn btn-default" href="~/Posts/Details/@post.Id">See More</a></p>
+         </div>
+     }
+    
+</div>
