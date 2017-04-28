@@ -13,14 +13,3 @@
     </p>
 </div>
 
-<div class="row">
-     @foreach (var post in Model)
-     {
-         <div class="col-md-4">
-             <h2>@post.Title</h2>
-             <img src="@post.ImageUrl" class="img-responsive" />
-             <p><a class="btn btn-default" href="~/Posts/Details/@post.Id">See More</a></p>
-         </div>
-     }
-    
-</div>

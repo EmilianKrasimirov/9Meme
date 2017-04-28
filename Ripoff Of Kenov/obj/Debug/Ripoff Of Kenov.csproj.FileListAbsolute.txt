@@ -332,3 +332,87 @@ C:\Users\Emo\Desktop\project\Rip off of Kenov\Ripoff Of Kenov\obj\Debug\Ripoff_O
 C:\Users\Emo\Desktop\project\Rip off of Kenov\Ripoff Of Kenov\obj\Debug\Ripoff Of Kenov.csproj.GenerateResource.Cache
 C:\Users\Emo\Desktop\project\Rip off of Kenov\Ripoff Of Kenov\obj\Debug\Ripoff Of Kenov.dll
 C:\Users\Emo\Desktop\project\Rip off of Kenov\Ripoff Of Kenov\obj\Debug\Ripoff Of Kenov.pdb
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\ApplicationInsights.config
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\roslyn\csc.exe
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\roslyn\vbc.exe
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Ripoff Of Kenov.dll.config
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Ripoff Of Kenov.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Ripoff Of Kenov.pdb
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Antlr3.Runtime.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\EntityFramework.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\EntityFramework.SqlServer.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.AI.Web.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.Owin.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.Owin.Security.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Newtonsoft.Json.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Owin.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\System.Web.Helpers.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\System.Web.Mvc.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\System.Web.Optimization.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\System.Web.Razor.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\System.Web.WebPages.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\System.Web.WebPages.Razor.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\WebGrease.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.AI.Web.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\System.Web.Helpers.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\System.Web.Mvc.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\System.Web.Optimization.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\System.Web.Razor.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\System.Web.WebPages.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\System.Web.WebPages.Razor.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Antlr3.Runtime.pdb
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Newtonsoft.Json.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\EntityFramework.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\EntityFramework.SqlServer.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.Owin.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.Owin.Security.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\obj\Debug\Ripoff Of Kenov.csprojResolveAssemblyReference.cache
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\obj\Debug\Ripoff_Of_Kenov.Migrations.InitialCreate.resources
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\obj\Debug\Ripoff Of Kenov.csproj.GenerateResource.Cache
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\obj\Debug\Ripoff Of Kenov.dll
+C:\Users\Emo\Desktop\9Meme\Rip off of Kenov\Ripoff Of Kenov\obj\Debug\Ripoff Of Kenov.pdb

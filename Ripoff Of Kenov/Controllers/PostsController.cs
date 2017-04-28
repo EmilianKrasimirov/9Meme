@@ -27,7 +27,7 @@
                     Title = postModel.Title,
                     Description = postModel.Description,
                     ImageUrl = postModel.ImageUrl,
-                    OwnerId = ownerId
+                    OwnerId = ownerId                    
                 };
 
                 var db = new PostsDbContext();
